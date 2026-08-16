@@ -1,0 +1,5 @@
+# Line endings are decided here, not by each contributor's core.autocrlf.
+# Text files are stored and checked out as LF; MSVC, CMake and every editor
+# this project targets read LF fine on Windows, and pinning it keeps a clone
+# from showing whole-file diffs on a machine configured differently.
+* text=auto eol=lf

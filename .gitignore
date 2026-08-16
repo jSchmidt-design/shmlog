@@ -1,0 +1,21 @@
+# CMake / build output
+build/
+build_*/
+build-*/
+out/
+cmake-build-*/
+CMakeUserPresets.json
+
+# IDE / editor
+.vs/
+.vscode/
+.idea/
+*.user
+
+# Windows build artefacts
+*.obj
+*.lib
+*.pdb
+*.ilk
+*.exe
+*.dll
